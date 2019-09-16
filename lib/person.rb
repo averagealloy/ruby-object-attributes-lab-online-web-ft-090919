@@ -15,7 +15,7 @@ class Person
 
 end
 beyonce = Person.new
-beyonce.name = "B"
+beyonce.name = "Bey"
 puts fido.name
 snoopy = Dog.new
 snoopy.name = "Snoopy"
