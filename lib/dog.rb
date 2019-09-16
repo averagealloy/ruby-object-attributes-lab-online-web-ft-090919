@@ -10,4 +10,4 @@ class Dog
 end
 fido = Dog.new
 fido.name = "Fido"
-puts lassie.name
+puts fido.name
