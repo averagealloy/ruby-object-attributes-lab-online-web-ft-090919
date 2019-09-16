@@ -10,8 +10,8 @@ class Person
   #      @job = "Singer"
   #    end
   #    def job
-  #      @job
-  #    end
+        @job
+      end
 
 end
 beyonce = Person.new
