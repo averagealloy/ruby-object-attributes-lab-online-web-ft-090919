@@ -18,4 +18,4 @@ beyonce = Person.new
 beyonce.name = "Beyonce"
 puts beyonce.name
 beyonce.name = "Singer"
-puts beyonce .name
+puts beyonce.name
