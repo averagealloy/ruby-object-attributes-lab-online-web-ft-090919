@@ -17,5 +17,5 @@ end
 beyonce = Person.new
 beyonce.name = "Beyonce"
 puts beyonce.name
-beyonce.name = "Snoopy"
+beyonce.name = "Singe"
 puts snoopy.name
