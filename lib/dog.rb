@@ -6,10 +6,7 @@ class Dog
     def name
       @this_dogs_name
     end
-    def name= (new_dog_name)
-      @this_dogs_name = new_dog_name 
-
-    end
+    
 end
 fido = Dog.new
 fido.name = "Fido"
