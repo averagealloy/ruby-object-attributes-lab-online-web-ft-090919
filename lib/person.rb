@@ -10,7 +10,7 @@ class Person
   #      @job = "Singer"
   #    end
   #    def job
-  #      @breed
+  #      @b
   #    end
 
 end
