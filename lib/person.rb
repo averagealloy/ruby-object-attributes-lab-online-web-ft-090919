@@ -10,10 +10,13 @@ class Person
   #      @job = "Singer"
   #    end
   #    def job
-  #      @job 
+  #      @job
   #    end
 
 end
 beyonce = Person.new
 beyonce.name = "Beyonce"
 puts beyonce.name
+snoopy = Dog.new
+snoopy.name = "Snoopy"
+puts snoopy.name
