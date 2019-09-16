@@ -6,8 +6,8 @@ class Person
     def name
       @name
     end
-  #  def job=(person_name)
-  #      @job = "Singer"
+    def job=(person_name)
+        @job = "Singer"
       end
       def job
         @job
