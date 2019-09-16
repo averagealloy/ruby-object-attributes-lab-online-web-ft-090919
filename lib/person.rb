@@ -8,8 +8,8 @@ class Person
     end
   #  def breed=(dog_name)
   #      @breed = "Beagle"
-      end
-      def breed
+  #    end
+  #    def breed
         @breed
       end
 
