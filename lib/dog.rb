@@ -8,5 +8,5 @@ class Dog
       @this_dogs_name
     end
 end
-fido = Dog.newf.name = "Lassie"
+fido = Dog.newfido.name = "Lassie"
 puts lassie.name
