@@ -19,4 +19,4 @@ fido.name = "Fido"
 puts fido.name
 snoopy = Dog.new
 snoopy.name = "Snoopy"
-puts fido.name
+puts .name
