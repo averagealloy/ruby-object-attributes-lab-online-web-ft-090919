@@ -1,7 +1,7 @@
 #
 class Person
   def name=(person_name)
-      @name = dog_name
+      @name = perso_name
     end
     def name
       @name
